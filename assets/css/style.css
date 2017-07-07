@@ -1,0 +1,35 @@
+*{
+	margin:0;
+	padding: 0;
+
+}
+
+#carousel{
+	margin: 50px;
+	width: 800px;
+	height: 500px;
+	overflow: hidden;
+}
+
+#carousel ul{
+	list-style: none;
+	width: 2400px;
+}
+
+#carousel ul li{
+	float: left;
+}
+
+img{
+	width: 800px;
+	height: 500px;
+}
+
+h1{
+	font-family: 'Amatic SC', cursive;
+	font-size: 60px;
+	font-weight: bold;
+	text-align: center;
+	color: #26D4CB;
+}
+
